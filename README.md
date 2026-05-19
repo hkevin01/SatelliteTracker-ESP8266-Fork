@@ -211,4 +211,3 @@ This project builds upon the original SatelliteTracker by Alex Chang. Please res
 - **Original Project**: Refer to original repository for base functionality questions
 - **ESP8266 Specific**: This fork addresses ESP8266-specific implementation details
 
-
