@@ -81,4 +81,3 @@ Next satellite is: NEOSSAT in: 663
 # Author: Alex Chang
 You can contact me at: yuc888@mail.usask.ca
 
-
